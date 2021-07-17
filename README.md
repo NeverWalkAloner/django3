@@ -5,7 +5,7 @@
 Run
 
 ```
-sudo docker-compose up -d --build
+docker-compose up -d --build
 ```
 
 Open http://127.0.0.1:8080/swagger/ in the browser and use `Token <token_value>` to authorize.
