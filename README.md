@@ -1,5 +1,7 @@
 # django3
 
+![example workflow](https://github.com/NeverWalkAloner/django3/actions/workflows/github-actions-demo.yml/badge.svg)
+
 ### Start project
 
 Run
