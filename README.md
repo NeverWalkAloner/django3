@@ -28,4 +28,4 @@ Run
 docker-compose exec web python manage.py createsuperuser
 ```
 
-Open http://127.0.0.1:8080/swagger/ in the browser and use superuser username password.
+Open http://127.0.0.1:8080/admin/ in the browser and use superuser username password.
